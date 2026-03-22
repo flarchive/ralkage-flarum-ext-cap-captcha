@@ -1,0 +1,43 @@
+{
+    "name": "ralkage/flarum-ext-cap-captcha",
+    "description": "Self-hosted CAPTCHA using Cap (proof-of-work) for registration and login protection",
+    "type": "flarum-extension",
+    "keywords": [
+        "captcha",
+        "cap",
+        "proof-of-work",
+        "spam",
+        "registration",
+        "security"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ralkage",
+            "email": "me@ralkage.com",
+            "homepage": "https://ralkage.com"
+        }
+    ],
+    "homepage": "https://ralkage.com",
+    "require": {
+        "flarum/core": "^1.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ralkage\\CapCaptcha\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Cap CAPTCHA",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-robot",
+                "backgroundColor": "#27ae60",
+                "color": "#fff"
+            }
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
