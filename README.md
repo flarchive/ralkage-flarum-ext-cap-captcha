@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of ralkage/flarum-ext-cap-captcha.** Not for installation: use [Packagist](https://packagist.org/packages/ralkage/flarum-ext-cap-captcha) or the [upstream repository](https://github.com/Ralkage/flarum-ext-cap-captcha).
 
-**0** versions archived · Latest: [`v2.0.0-beta.8`](https://github.com/flarchive/ralkage-flarum-ext-cap-captcha/tree/archive/v2.0.0-beta.8) · License: `MIT` · Flarum: `^2.0.0-beta`
+**3** versions archived · Latest: [`v2.0.0-beta.8`](https://github.com/flarchive/ralkage-flarum-ext-cap-captcha/tree/archive/v2.0.0-beta.8) (stable: [`1.0.0`](https://github.com/flarchive/ralkage-flarum-ext-cap-captcha/tree/archive/v1.0.0)) · License: `MIT` · Flarum: `^2.0.0-beta`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-03-22 | `^1.8` | [Browse](https://github.com/flarchive/ralkage-flarum-ext-cap-captcha/tree/archive/v1.0.0) |
+| `1.0.1` | 2026-03-23 | `^1.8` | [Browse](https://github.com/flarchive/ralkage-flarum-ext-cap-captcha/tree/archive/v1.0.1) |
+| `v2.0.0-beta.8` | 2026-03-23 | `^2.0.0-beta` | [Browse](https://github.com/flarchive/ralkage-flarum-ext-cap-captcha/tree/archive/v2.0.0-beta.8) |
 
 Catalog entry: [packages/ralkage-flarum-ext-cap-captcha.json](https://github.com/flarchive/archive-index/blob/main/packages/ralkage-flarum-ext-cap-captcha.json)
 
